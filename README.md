@@ -2,6 +2,9 @@
 
 Welcome to the **Django Concert Management Application**! This project provides a backend system for managing concert bookings, user sign-ups, logins, and attendance. 
 
+ ![Back End Development Capstone](https://github.com/Willie-Conway/Back-end-Development-Capstone/blob/8014f3b8307c2e14a509dadd49de4ac67e592c5d/Screenshots/Djirection.gif)
+
+
 ## 🎯 Objectives
 
 - **Create the main home page for the band** 🎸
@@ -78,10 +81,10 @@ Welcome to the **Django Concert Management Application**! This project provides 
 ## 📸 Screenshots
 
 ### 🎤 Concerts Page:
-![Concerts Page Screenshot](path/to/concerts-page-screenshot.png)
+![Concerts Page Screenshot](https://github.com/Willie-Conway/Back-end-Development-Capstone/blob/8014f3b8307c2e14a509dadd49de4ac67e592c5d/Screenshots/django-concert.jpg)
 
 ### 🔐 Login Page:
-![Login Page Screenshot](path/to/login-page-screenshot.png)
+![Login Page Screenshot](https://github.com/Willie-Conway/Back-end-Development-Capstone/blob/8014f3b8307c2e14a509dadd49de4ac67e592c5d/Screenshots/django-login.jpg)
 
 ## 🤝 Contributing
 
