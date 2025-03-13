@@ -40,12 +40,12 @@ Welcome to the **Django Concert Management Application**! This project provides 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/concert-management.git
+   git clone https://github.com/yourusername/Back-end-Development-Capstone.git
    ```
 
 2. Change directory to the project folder:
    ```bash
-   cd concert-management
+   cd Back-end-Development-Capstone
    ```
 
 3. Install dependencies:
