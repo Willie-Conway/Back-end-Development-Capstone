@@ -81,7 +81,7 @@ Welcome to the **Django Concert Management Application**! This project provides 
 ## 📸 Screenshots
 
 ### 🎤 Concerts Page:
-![Concerts Page Screenshot]()
+![Concerts Page Screenshot](https://github.com/Willie-Conway/Back-end-Development-Capstone/blob/ace43ffd2ecb6ca9981016f74be09f77052d6dcb/Screenshots/django-concerts.jpg)
 
 ### 🔐 Login Page:
 ![Login Page Screenshot](https://github.com/Willie-Conway/Back-end-Development-Capstone/blob/8014f3b8307c2e14a509dadd49de4ac67e592c5d/Screenshots/django-login.jpg)
