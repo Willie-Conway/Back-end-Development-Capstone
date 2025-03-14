@@ -1,5 +1,5 @@
 apiVersion: apps/v1
-kind: # {insert kind here}
+kind: Deployment
 metadata:
   labels:
     run: djangoserver
@@ -20,10 +20,10 @@ spec:
         run: djangoserver
     spec:
       containers:
-      - image: # {insert image here}
+      - image: us.icr.io/sn-labs-hirewillieco/djangoserver:1
         imagePullPolicy: Always
         name: djangoserver
         ports:
-        - containerPort: # {insert port here}
+        - containerPort: 8000
           protocol: TCP
       restartPolicy: Always
